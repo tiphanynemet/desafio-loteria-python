@@ -2,6 +2,8 @@
 
 O jogo, intitulado "Loteria da Babilônia", sorteia um número aleatório entre 1 e 15 e desafia o usuário a adivinhá-lo em até três tentativas. O programa fornece dicas, informando se o palpite do usuário foi muito alto ou muito baixo.
 
+---
+
 Este projeto foi criado para aplicar e demonstrar os seguintes conceitos de programação em Python:
 
 * **Estruturas de Repetição:** Uso de loops `for` para controlar o número de tentativas e `while` para validar a entrada do usuário.
